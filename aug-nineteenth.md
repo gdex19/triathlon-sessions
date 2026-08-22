@@ -41,9 +41,9 @@
 
 4x100 on 1:30, easy-ish
 
-8x50 on 0:45, a bit faster
+8x50 on 1:15, a bit faster
 
-8x25 on 0:30, hard
+8x25 on 0:45, hard
 
 (1000)
 
