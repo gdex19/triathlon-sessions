@@ -1,57 +1,33 @@
-**Warmup**
+# Swim — Aerobic Threshold (50m pool)
+Total: 2,500m | ~50 min | CSS 1:30/100m
 
-300 Free
+## Warm-up — 600m
+- 300 free, easy, no watch
+- 4 × 50 — 25 catch-up drill / 25 swim @ :15 rest
+- 100 kick, easy
 
-4x50 fist/normal on 1:00
+## Activation — 300m
+- 6 × 50 on 1:05
+  - Odd: count strokes, hold the number
+  - Even: smooth @ 1:40/100 pace
 
-(500)
+## Main — 1,000m
+- 10 × 100 on 1:45
+- Target 1:35–1:38
+- Reps 1–3: controlled, sit at 1:38
+- Reps 4–8: hold, do not drift
+- Reps 9–10: 1:35 if stroke is intact
 
-**Fly Drills**
+## Flush — 200m
+- 200 easy, alternating free / back
 
-8x25 dolphin kick, 2 front, 4 side, 2 back on 0:30
+## Speed — 200m
+- 4 × 50 on 1:15 — 25 fast from push / 25 easy
 
-2x50 flow drill/undulation (press the chest) on 1:30 w/ snorkel
+## Cool-down — 200m
+- 200 easy
 
-2x50 skate on ?
-
-2x25 football scull on ?
-
-2x25 closed fist on 1:00
-
-8x25 easy fly on 0:45
-
-(700)
-
-*Cues: complete drive, fingers out first. Neck back. Don’t kick, use the chest*
-
-**Freestyle Drills**
-
-8x50 25 pause drill 25 swim w/ snorkel on 1:00
-
-8x50 25 fingertips drag drill 25 on 1:00
-
-4x50 breathing focus: first 25 of 1st and 3rd to the left
-
-
-*Cues: take breath as left arm places, come back as left hand catches.*
-
-(500)
-
-**Freestyle set**
-
-4x100 on 1:30, easy-ish
-
-8x50 on 1:15, a bit faster
-
-8x25 on 0:45, hard
-
-(1000)
-
-**Cooldown**
-
-300 choice
-
-(300)
-
-3k total!
-
+## Rules
+- Stroke count per 50 must not rise more than +1 from warm-up baseline
+- If it does: hold 1:40 and take the rest you get
+- No paddles, no heavy pull
